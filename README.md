@@ -1,4 +1,4 @@
-# ESG-Financial-of-S-P-500
+# ESG-Financial-of-SP-500
  This project examine the relationship between Sustainalytics Environmental, Social, and Governance (ESG) risk ratings and
  the financial performance of US S&;P 500 listed firms.
 The methodology included web scraping for data collection, and data wrangling. 
